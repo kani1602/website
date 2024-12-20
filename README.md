@@ -160,53 +160,43 @@ Publish the website in the given URL.
     <section class="menu" id="menu">
         <h2>Our Menu</h2>
         <div class="menu-item">
-            <img src="dish 1.jpg" alt="Dish 1">
+            <img src="1.png" alt="Dish 1">
             <h3>Dish 1</h3>
             <p>Chicken</p>
         </div>
         <div class="menu-item">
-            <img src="dish 2.jpg" alt="Dish 2">
+            <img src="2.png" alt="Dish 2">
             <h3>Dish 2</h3>
             <p>Panner</p>
         </div>
         <div class="menu-item">
-            <img src="dish 3.jpg" alt="Dish 3">
+            <img src="7.png" alt="Dish 3">
             <h3>Dish 3</h3>
-            <p>Cheese</p>
-        </div>
-        <div class="menu-item">
-            <img src="dish 4.jpg" alt="Dish 4">
-            <h3>Dish 4</h3>
-            <p>Sweet Corn</p>
-        </div>
-        <div class="menu-item">
-            <img src="dish 5.jpg" alt="Dish 5">
-            <h3>Dish 5</h3>
             <p>Mushroom</p>
         </div>
         <div class="menu-item">
-            <img src="dish 6.jpg" alt="Dish 6">
-            <h3>Dish 6</h3>
+            <img src="4.png" alt="Dish 4">
+            <h3>Dish 4</h3>
             <p>Double Cheese</p>
         </div>
         <div class="menu-item">
-            <img src="dish 7.jpg" alt="Dish 7">
-            <h3>Dish 7</h3>
+            <img src="3.png" alt="Dish 5">
+            <h3>Dish 5</h3>
             <p>BBQ</p>
         </div>
         <div class="menu-item">
-            <img src="dish 8.jpg" alt="Dish 8">
-            <h3>Dish 8</h3>
+            <img src="5.png" alt="Dish 6">
+            <h3>Dish 6</h3>
             <p>Mozzarella</p>
         </div>
         <div class="menu-item">
-            <img src="dish 9.jpg" alt="Dish 9">
-            <h3>Dish 9</h3>
+            <img src="8.png" alt="Dish 7">
+            <h3>Dish 7</h3>
             <p>Macaroni</p>
         </div>
         <div class="menu-item">
-            <img src="dish 10.jpg" alt="Dish 10">
-            <h3>Dish 10</h3>
+            <img src="6.png" alt="Dish 8">
+            <h3>Dish 8</h3>
             <p>Italian</p>
         </div>
     </section>
@@ -224,14 +214,15 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
+
 ```
 
 # OUTPUT:
-![alt text](<Screenshot 2024-12-18 143150.png>)
-![alt text](<Screenshot 2024-12-18 143209.png>)
-![alt text](<Screenshot 2024-12-18 143237.png>)
-![alt text](<Screenshot 2024-12-18 143300.png>)
-![alt text](<Screenshot 2024-12-18 143329.png>)
-![alt text](<Screenshot 2024-12-18 143347.png>)
+![alt text](<Screenshot 2024-12-21 003815.png>)
+![alt text](<Screenshot 2024-12-21 003841.png>)
+![alt text](<Screenshot 2024-12-21 004652.png>)
+![alt text](<Screenshot 2024-12-21 004707.png>)
+![alt text](<Screenshot 2024-12-21 004717.png>)
+![alt text](<Screenshot 2024-12-21 004023.png>)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
